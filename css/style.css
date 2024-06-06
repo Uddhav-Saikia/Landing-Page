@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+
+.navbar .nav-items {
+    display: flex;
+    gap: 10px;
+}
+
+.hero {
+    background-color: #1f2937;
+    color: #fff;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 20%;
+    height: 200px;
+}
+
+.hero .A {
+    display: flex;
+    justify-content: space-between;
+    padding: 5% 0;
+    flex: 1;
+}
+
+.hero .A  .grid {
+    flex: 3;
+}
+
+.hero .A .pic {
+    flex: 1;
+    background-color: #1e3764;
+    text-align: center;
+}
+
+.B {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 20px;
+    text-align: center;
+    height: 200px;
+}
+
+.B h1 {
+    padding: 10px;
+}
+
+.B .box {
+    display: flex;
+    /* height: 100px; */
+    justify-content: center;
+    gap: 20px;
+}
+.B .box div {
+    border: 1px solid blue;
+    height:8vh;
+    width: 8vh;
+    border-radius: 2vh;
+    flex-shrink: 0;
+}
+
+
+.C {
+    display: flex;
+    background-color: #e5e7eb;
+    height: 200px;
+    padding: 20px;
+    /* padding-left: 20%;
+    padding-right: 20%; */
+}
+
+.C p{
+    text-align: end;
+    padding-right: 10px;
+}
+.C :nth-child(1){
+    flex: 4;
+}
+
+.C :nth-child(2){
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    flex: 3;
+}
+
+.C :nth-child(3) {
+    flex: 4;
+}
+
+.D {
+    padding: 2%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.D .blue-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    background-color: #3882f6 ;
+    border-radius: 2vh;
+    padding: 10px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.D button {
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 5px;
+    height: 5vh;
+    background-color: #3882f6;
+
+}
+
+.E {
+    display: flex;
+    background-color: #1e3764;
+    height: 30px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
