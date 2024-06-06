@@ -3,3 +3,28 @@
     font-weight: extra-bold;
     color: #f9faf8;
 }
+
+.A .small-hero {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.navbar .logo {
+    font-size: 24px;   
+    color: #f9faf8;
+}
+
+.navbar .nav-items {
+    color: #f9faf8;
+}
+
+.B h1 {
+    font-size: 36px;
+    color: #1f2937;
+}
+
+.C h1 {
+    font-size: 36px;
+    font-style: light italic;
+    color: #1f2937;
+}
