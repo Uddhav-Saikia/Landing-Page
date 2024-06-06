@@ -1,4 +1,4 @@
-.navbar .dum1 {
+/* .navbar .dum1 {
     flex: 2;
 }
 
@@ -9,4 +9,21 @@
 .navbar .dum2 {
     flex: 9;
 }
+ */
 
+
+ .head-max-contain {
+    display: flex;
+ }
+
+.first {
+    flex: 1;
+}
+
+.second {
+    flex: 2;
+}
+
+.third {
+    flex: 1;
+}
