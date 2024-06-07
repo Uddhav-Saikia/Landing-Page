@@ -6,6 +6,11 @@ img {
     object-position: 5px;
 }
 
+img:hover {
+    transform: scale(1.2);
+    object-position: 10px;
+}
+
 .B .box2 img {
     height: 80%;
     object-position: 13px 10px;
