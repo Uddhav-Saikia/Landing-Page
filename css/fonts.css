@@ -4,6 +4,10 @@
     color: #f9faf8;
 }
 
+.A h1:hover{
+    color: rgb(190, 124, 203);
+}
+
 .A .small-hero {
     font-size: 18px;
     color: #e5e7eb;
@@ -11,11 +15,24 @@
 
 .navbar .logo {
     font-size: 24px;   
+    font-style: italic;
     color: #f9faf8;
+}
+
+.navbar .logo:hover {
+    color: yellow;
 }
 
 .navbar .nav-items {
     color: #f9faf8;
+}
+
+.navbar .nav-items a:hover{
+    color: rgb(226, 171, 180);
+}
+
+.navbar .nav-items a:active{
+    color: rgb(214, 80, 103);
 }
 
 .B h1 {

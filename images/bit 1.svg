@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="508" height="380">
+<defs>
+<path id="A0" d="m.5 35.5h32v32h-32v-32m35 0h32v32h-32v-32m70 0h32v32h-32v-32m35 0h32v32h-32v-32m-140 35h32v32h-32v-32m70 0h32v32h-32v-32m70 0h32v32h-32v-32m-140 35h32v32h-32v-32m70 0h32v32h-32v-32m70 0h32v32h-32v-32m-105 35h32v32h-32v-32m35 0h32v32h-32v-32m35 0h32v32h-32v-32m-70 70h32v32h-32v-32m35 0h32v32h-32v-32m35 0h32v32h-32v-32m-105 35h32v32h-32v-32m35 0h32v32h-32v-32m35 0h32v32h-32v-32m35 0h32v32h-32v-32m35 0h32v32h-32v-32"/>
+<path id="A1" d="m71 35.5h32v32h-32v-32m-35 35h32v32h-32v-32m70 0h32v32h-32v-32m-70 35h32v32h-32v-32m70 0h32v32h-32v-32m-105 35h32v32h-32v-32m140 0h32v32h-32v-32m-140 35h32v32h-32v-32m35 0h32v32h-32v-32m35 0h32v32h-32v-32m35 0h32v32h-32v-32m35 0h32v32h-32v-32m-140 35h32v32h-32v-32m140 0h32v32h-32v-32"/>
+</defs>
+<g stroke="#000">
+<use xlink:href="#A0" fill="none"/>
+<use xlink:href="#A1"/>
+</g>
+<g font-size="18">
+	<switch>
+		<g systemLanguage="de">
+			<text x="16" y="315">Bitmap-Darstellung des</text>
+			<text x="16" y="334">Buchstaben „A“</text>
+			<text x="297" y="315">Vektor-Darstellung</text>
+			<text x="297" y="334">des Buchstaben „A“</text>
+			<text x="297" y="353">(mit unterlegter</text>
+			<text x="297" y="373">Bitmap-Darstellung)</text>
+		</g>
+		<g systemLanguage="en">
+			<text x="16" y="315">Bitmap-depiction of</text>
+			<text x="16" y="334">the letter “A”</text>
+			<text x="297" y="315">Vector depiction</text>
+			<text x="297" y="334">of the letter “A”</text>
+			<text x="297" y="353">(underlayed with </text>
+			<text x="297" y="373">bitmap-depiction)</text>
+		</g>
+		<g systemLanguage="es">
+			<text x="16" y="315">Mapa de bits de</text>
+			<text x="16" y="334">la letra «A»</text>
+			<text x="297" y="315">Vector de</text>
+			<text x="297" y="334">la letra «A»</text>
+			<text x="297" y="353">(sobre la representación</text>
+			<text x="297" y="373">de mapa de bits)</text>
+		</g>
+		<g systemLanguage="fr">
+			<text x="16" y="315">Représentation matricielle</text>
+			<text x="16" y="334">de la lettre « A »</text>
+			<text x="297" y="315">Représentation vectorielle</text>
+			<text x="297" y="334">de la lettre « A »</text>
+			<text x="297" y="353">(par-dessus la</text>
+			<text x="297" y="373">version matricielle)</text>
+		</g>
+	</switch>
+	<text x="242" y="230">(0,5)</text>
+	<text x="242" y="195">(1,4)</text>
+	<text x="351" y="20">(2,0)</text>
+	<text x="460" y="195">(3,4)</text>
+	<text x="460" y="230">(4,5)</text>
+</g>
+<g stroke="#000">
+<g stroke-dasharray="5 3">
+<use xlink:href="#A0" x="281" fill="none"/>
+<use xlink:href="#A1" x="281" fill="#f96"/>
+</g>
+<path d="m281 242l86-200 86 200m-149-53h126" fill="none" stroke-width="4"/>
+</g>
+</svg>
