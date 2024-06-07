@@ -5,3 +5,17 @@ img {
     position: relative;
     object-position: 5px;
 }
+
+.B .box2 img {
+    height: 80%;
+    object-position: 13px 10px;
+}
+
+.B .box3 img {
+    height: 90%;
+    width: 90%;
+    object-position: 10px 10px;
+}
+.B .box4 img {
+    object-position: -10%;
+}
